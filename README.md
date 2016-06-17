@@ -1,6 +1,6 @@
 
-#gallery-by-react
-a photo gallery by react&flux&webpack
+#Gallery By React
+a photo gallery by react & flux & webpack
 
 ## Installation
 
@@ -13,7 +13,7 @@ $ git clone https://github.com/gisonyeung/gallery-by-react.git
 npm install the dependencies and devDependencies
 
 ```
-npm install
+$ npm install
 ```
 
 ## Start
@@ -21,7 +21,7 @@ npm install
 start the project
 
 ```
-npm start
+$ npm start
 ```
 
 automatically running on
