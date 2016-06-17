@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-Photo Gallary by React
-====================
+
+#gallery-by-react
+a photo gallery by react&flux&webpack
 
 ## Installation
 
@@ -28,7 +28,4 @@ automatically running on
 ```
 http://localhost:8000/
 ```
-=======
-# gallery-by-react
-a photo gallery by react&amp;flux&amp;webpack
->>>>>>> b4961d813332057f4cb0a32ce73251ededed4234
+
