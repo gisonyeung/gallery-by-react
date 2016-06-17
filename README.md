@@ -29,3 +29,5 @@ automatically running on
 http://localhost:8000/
 ```
 
+
+大屏观赏视觉效果更好哦~
